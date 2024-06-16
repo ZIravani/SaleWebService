@@ -1,0 +1,32 @@
+D:\My Source\Web Service\Web Service\Test\TestWebService\TestWebService\bin\TestWebService.dll
+D:\My Source\Web Service\Web Service\Test\TestWebService\TestWebService\bin\TestWebService.pdb
+D:\My Source\Web Service\Web Service\Test\TestWebService\TestWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Source\Web Service\Web Service\Test\TestWebService\TestWebService\obj\Debug\TestWebService.dll
+D:\My Source\Web Service\Web Service\Test\TestWebService\TestWebService\obj\Debug\TestWebService.pdb
+D:\پتروشیمی اصفهان\SaleWebService\bin\TestWebService.dll
+D:\پتروشیمی اصفهان\SaleWebService\bin\TestWebService.pdb
+D:\پتروشیمی اصفهان\SaleWebService\obj\Debug\TestWebService.dll
+D:\پتروشیمی اصفهان\SaleWebService\obj\Debug\TestWebService.pdb
+C:\SaleWebService\bin\TestWebService.dll
+C:\SaleWebService\bin\TestWebService.pdb
+C:\SaleWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\SaleWebService\obj\Debug\TestWebService.dll
+C:\SaleWebService\obj\Debug\TestWebService.pdb
+C:\Documents and Settings\Amirfard\Desktop\SaleWebService\bin\TestWebService.dll
+C:\Documents and Settings\Amirfard\Desktop\SaleWebService\bin\TestWebService.pdb
+C:\Documents and Settings\Amirfard\Desktop\SaleWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amirfard\Desktop\SaleWebService\obj\Debug\TestWebService.dll
+C:\Documents and Settings\Amirfard\Desktop\SaleWebService\obj\Debug\TestWebService.pdb
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService\bin\TestWebService.dll
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService\bin\TestWebService.pdb
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService\obj\Debug\TestWebService.dll
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService\obj\Debug\TestWebService.pdb
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService\obj\Debug\TestWebService.csprojResolveAssemblyReference.cache
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService - Copy and replace\bin\TestWebService.dll
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService - Copy and replace\bin\TestWebService.pdb
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService - Copy and replace\obj\Debug\TestWebService.dll
+\\192.168.66.1\c$\inetpub\wwwroot\SaleWebService - Copy and replace\obj\Debug\TestWebService.pdb
+C:\Users\pln-com04\Desktop\SaleWebService - Copy and replace\bin\TestWebService.dll
+C:\Users\pln-com04\Desktop\SaleWebService - Copy and replace\bin\TestWebService.pdb
+C:\Users\pln-com04\Desktop\SaleWebService - Copy and replace\obj\Debug\TestWebService.dll
+C:\Users\pln-com04\Desktop\SaleWebService - Copy and replace\obj\Debug\TestWebService.pdb
